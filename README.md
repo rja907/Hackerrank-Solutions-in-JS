@@ -1,6 +1,8 @@
 # HackerRank solutions
 My solutions to HackerRank questions.
 
+To be done: 10 Days of JS.
+
 To check out the code, run:
 
 `node <filename>.js`
