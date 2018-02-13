@@ -1,7 +1,9 @@
 # HackerRank solutions
 My solutions to HackerRank questions.
 
-To be done: 10 Days of JS.
+Done: 10 Days of JS.
+
+To be done: Algorithms and Data Structures
 
 To check out the code, run:
 
